@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grav3d", "Assembly-CSharp.csproj", "{D6023272-B73E-7523-15DA-DD4611153277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grav3d", "Assembly-CSharp-Editor.csproj", "{FA83CC46-9E78-81ED-5DFF-58EE40FDF721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6023272-B73E-7523-15DA-DD4611153277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6023272-B73E-7523-15DA-DD4611153277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6023272-B73E-7523-15DA-DD4611153277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6023272-B73E-7523-15DA-DD4611153277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA83CC46-9E78-81ED-5DFF-58EE40FDF721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA83CC46-9E78-81ED-5DFF-58EE40FDF721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA83CC46-9E78-81ED-5DFF-58EE40FDF721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA83CC46-9E78-81ED-5DFF-58EE40FDF721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
